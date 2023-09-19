@@ -1,8 +1,8 @@
-## ![test-tube_1f9ea](https://github.com/0xMACKAY/DeSci/assets/77428742/b0ec8ab5-77d2-427d-8e4d-39226a97ea6b) DeSci Stack
+# ![test-tube_1f9ea](https://github.com/0xMACKAY/DeSci/assets/77428742/b0ec8ab5-77d2-427d-8e4d-39226a97ea6b) DeSci Stack
 <img width="1792" alt="Screen Shot 2023-09-14 at 4 26 39 AM" src="https://github.com/0xMACKAY/DeSci/assets/77428742/0a4bcce0-d752-4073-ad2c-3e982685deeb">
-# DeSci Stack
+# DeSci Hub
 
-## What is the DeSci Stack?
+## What is DeSci?
 
 Decentralized science (DeSci) is a transformative movement in the scientific domain. It seeks to construct a public infrastructure that leverages the Web3 stack for various scientific activities, including funding, creation, review, credit allocation, storage, and dissemination of knowledge. 
 
@@ -29,7 +29,7 @@ Engaging with the DeSci community is a great way to immerse oneself in this new 
 
 ## DeSci Tools
 
-### DeSci Stack 1:
+### DeSci Stack (Coming Soon):
 The DeSci toolkit amalgamates the best open-source tools tailored for decentralized scientific endeavors. These tools range from decentralized data storage solutions to platforms that facilitate transparent peer reviews.
 
 ### Resources:
