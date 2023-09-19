@@ -81,7 +81,3 @@ Funding is a crucial aspect of any scientific endeavor. In the DeSci paradigm, t
 - [Web3 Tools for Science Funding](https://ethereum.org)
 - [DAOs and Funding in DeSci](https://ethereum.org)
 
----
-
-This is a more detailed breakdown of the DeSci Stack and the decentralized science field. Each section provides a comprehensive overview, key points, and relevant resources. If you need further details or specific resources on any topic, please let me know!
-
